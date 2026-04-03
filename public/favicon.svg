@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Фон -->
+  <rect width="64" height="64" rx="14" fill="#1e40af"/>
+  <!-- Знак рубля -->
+  <text x="32" y="46" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle">₽</text>
+  <!-- Маленький трендовый треугольник вверх-вправо -->
+  <polyline points="38,18 46,10 46,18" fill="#22c55e" stroke="#22c55e" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="38" y1="18" x2="46" y2="10" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+</svg>
