@@ -2,6 +2,8 @@
 
 > Быстрая оценка инвестиционной привлекательности объектов стрит-ритейла в Москве
 
+🚀 **[Открыть калькулятор](https://investment-calculator-sergeykovalev331-netizens-projects.vercel.app)**
+
 ![Калькулятор](screenshots/123.png)
 
 ![Результаты](screenshots/3231.png)
